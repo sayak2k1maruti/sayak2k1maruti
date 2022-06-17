@@ -16,7 +16,7 @@ const About = () => {
                         Hello There
                     </h2>
                     <p className='p-2 text-2xl'>
-                        I am a student 	&amp; I love to code.I read in National Institute of Technology Durgapur,as a student of Electronics and Communication Engineering
+                        I am a student 	&amp; I love to code.I read in National Institute of Technology Durgapur. Currently I am persuing a B.Tech in Electronics and Communication Engineering.
                     </p>
                 </div>
                 <img className='w-1/2 hover:-translate-y-10 transition-all duration-500 shadow-sm' src={minion.src}></img>

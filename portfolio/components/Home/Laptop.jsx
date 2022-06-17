@@ -23,14 +23,14 @@ const Laptop = () => {
         });
     }
     return (
-        <div className='w-[95%] h-auto'>
+        <div className='w-[95%] max-w-[720px] h-auto'>
             <div className="body relative">
                 <div onClick={handleScrollToNext} className='w-20 h-20 absolute left-10 animate-bounce bottom-40 text-gray-50 hover:text-gray-600 transition-colors duration-300'>
                     <DownArrow />
                 </div>
                 <ReactVisibilitySensor onChange={toggleLaptopHood}>
                     <>
-                        <div className="container">
+                        <div className="container ">
                             <div className={`laptop-hood-container ${laptopHoodStatus ? 'laptop-hood-opened' : ''}`}>
                                 <div className="laptop-hood cover">
                                     <img className="background-img border-radius" src="./assets/images/laptop-cover.png" alt="" />
@@ -74,7 +74,7 @@ const Laptop = () => {
     .container {
         transform : scale(.4);
         position: relative;
-        perspective: 2400px;
+        perspective: 3500px;
         perspective-origin: bottom;
         --laptop--screen--width: 100vw;
         --aspect--ratio: calc(9/16);
