@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak2k1maruti&label=Profile%20views&color=0e75b6&style=flat" alt="sayak2k1maruti" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sayak01.epizy.com/](https://sayak01.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://sayak2k1maruti.github.io/](https://sayak2k1maruti.github.io/)
+
+- 🤖 My portfolio : [https://sayak2k1maruti.github.io/](https://sayak2k1maruti.github.io/)
+
+- 👾 My old portfolio : [https://sayak01.epizy.com](https://sayak01.epizy.com)
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
@@ -24,7 +28,7 @@
 <table>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayak2k1maruti&show_icons=true&locale=en" alt="sayak2k1maruti" />
+            <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sayak2k1maruti&show_icons=true&locale=en" alt="sayak2k1maruti" />
         </td>
         <td>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayak2k1maruti&theme=default" alt="sayak2k1maruti" />
