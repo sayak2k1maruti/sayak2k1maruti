@@ -1,6 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 25vh" />
-</div>  
+<a href="https://sayak2k1maruti.github.io/" target="_blank>
+    <div align="center">
+        <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 25vh" />
+    </div>  
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Sayak Das</h1>
 <h3 align="center">A student who always wants to explore new technologies</h3>
