@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sayakdas2k1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1awwHGpyhRx_0ocPTWBBQbTb2IhQZgLTU/edit?usp=sharing&ouid=107773039728153160924&rtpof=true&sd=true](https://docs.google.com/document/d/1awwHGpyhRx_0ocPTWBBQbTb2IhQZgLTU/edit?usp=sharing&ouid=107773039728153160924&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pBx5NCZQHfO03B6_KwW0ZucMvpU2-8tG?usp=sharing](https://drive.google.com/drive/folders/1pBx5NCZQHfO03B6_KwW0ZucMvpU2-8tG?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
