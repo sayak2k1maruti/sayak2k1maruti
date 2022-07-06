@@ -152,7 +152,3 @@
 <hr/>
 <br/>  
 
-
-<h2>Listen with me</h2>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=l05vsj3luu1vjoh7hm5j16fun&cover_image=true&theme=default" /></div>  
